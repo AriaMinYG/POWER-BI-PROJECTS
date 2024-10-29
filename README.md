@@ -4,7 +4,7 @@ Project Overview
 This Plant Performance Report is a Power BI dashboard analyzing key metrics across different plants to help identify performance trends and optimize operational efficiency. This project visualizes data on production, downtime, and resource utilization to help management make data-driven decisions.
 
 
-[Dashboard Screenshot](screenshots/https://github.com/AriaMinYG/POWER-BI-PROJECTS/blob/f361f3dd8dca82200d8371108c60b3c35376d87f/Screenshot%20(45).png)
+![Dashboard Screenshot](screenshots/https://github.com/AriaMinYG/POWER-BI-PROJECTS/blob/f361f3dd8dca82200d8371108c60b3c35376d87f/Screenshot%20(45).png)
 
 
 
