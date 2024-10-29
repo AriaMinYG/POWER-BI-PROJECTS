@@ -9,9 +9,12 @@ This Plant Performance Report is a Power BI dashboard analyzing key metrics acro
 
 
 Objective
+
+
 The goal of this project is to provide insightful visualizations of plant performance data, allowing managers to assess productivity, spot inefficiencies, and implement strategies to enhance operational efficiency.
 
 
+ ![Image Alt](https://github.com/AriaMinYG/POWER-BI-PROJECTS/blob/4707b9a3e074bef18f17664522fd5e5993f33c29/Screenshot%20(46).png)
 
 Key Features
 Visual breakdown of production metrics by plant and by time frame.
@@ -19,7 +22,7 @@ Analysis of downtime and resource allocation.
 Interactive filters to drill down into specific plants, periods, or departments.
 Summary insights showing overall plant performance.
 
-
+![Image Alt](https://github.com/AriaMinYG/POWER-BI-PROJECTS/blob/4707b9a3e074bef18f17664522fd5e5993f33c29/Screenshot%20(42).png)
 
 Technologies Used
 Power BI: Data visualization and analysis.
@@ -27,7 +30,7 @@ DAX: Calculated measures and dynamic filtering.
 Data Sources
 Data sources include fictional or real data on:
 
-
+![Image Alt](https://github.com/AriaMinYG/POWER-BI-PROJECTS/blob/4707b9a3e074bef18f17664522fd5e5993f33c29/Screenshot%20(40).png)
 This dashboard provides:
 Production Trends: See performance trends over time.
 Downtime Analysis: Identify and categorize sources of downtime.
